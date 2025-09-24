@@ -1,0 +1,21 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Ignorar arquivos de configuração sensíveis
+.env
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
